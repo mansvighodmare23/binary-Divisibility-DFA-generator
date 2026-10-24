@@ -1,0 +1,6 @@
+{
+  "name": "Binary Divisibility DFA Generator",
+  "description": "Interactive Deterministic Finite Automaton (DFA) generator and step-by-step simulator for binary divisibility by any integer n.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
